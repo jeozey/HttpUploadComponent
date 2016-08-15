@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="libs/concurrentlinkedhashmap-lru-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/libidn-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/xmlpull_1_1_3_4c.jar"/>
+	<classpathentry kind="lib" path="libs/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
